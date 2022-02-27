@@ -1,0 +1,119 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    background: #ccc;
+    max-width: 1000px;
+    margin: 10px auto;
+    
+    box-shadow: -10px -10px 10px black;
+    
+   
+    
+}
+.container:hover{
+    box-shadow: none;
+    
+}
+
+.left{
+    width: 45%;
+    float: left;
+    
+
+}
+
+.right{
+    width: 45%;
+    float: left;
+    margin-left: 95px;
+    
+}
+.clear-div{
+    clear: both;
+}
+img{
+    width: 200px;
+    border: 3px solid teal;
+    border-radius: 50%;
+    float:left;
+    margin: 10px;
+    
+}
+.bio{
+    width: 200px;
+    float: left;
+    margin-top: 35px;
+    
+}
+h1,h2,h3,h4,h5,h6{
+    color:teal;
+}
+.contact
+{
+    margin-top: 35px;
+    
+    
+}
+.contact a{
+    color: teal;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.contact a:hover{
+    color:tomato;
+    text-decoration: underline;
+}
+hr{
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 10px;
+ 
+    
+}
+.eduinfo{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+   
+}
+.eduA{
+    margin-left: 10px;
+    margin-top: 10px;
+   
+}
+.tablediv{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid black;
+    padding:10px;
+    text-align: center;
+}
+.last
+{
+    margin-left: 10px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+ #abc{
+    color: blue;
+}
+#hhh{
+    color: teal;
+    font-weight: bold;
+    text-decoration: none;
+}
+#hhh:hover{
+    color: tomato;
+    text-decoration: underline;
+}
